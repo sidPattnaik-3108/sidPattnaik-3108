@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Siddhant Pattnaik
-- 👀 I’m interested in learning in a lot of stuffs
+- 👀 I’m interested in learning lot of stuffs
 - 🌱 I’m currently learning DSA and System Design
 - 💞️ I’m looking to collaborate on solving complex coding questions
 - 📫 How to reach me : sidPattnaik-3108
